@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">AutoComplete ListView</string>
+    <string-array name="countries">
+        <item>Afghanistan</item>
+        <item>Albania</item>
+        <item>Algeria</item>
+        <item>Andorra</item>
+        <item>Angola</item>
+    </string-array>
+</resources>
